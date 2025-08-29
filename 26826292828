@@ -48,7 +48,7 @@ if not whitelist[LocalPlayer.Name] then
     return
 end
 
-print("UsuÃƒÂ¡rio autorizado:", LocalPlayer.Name)
+print("Usuario autorizado:", LocalPlayer.Name)
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/MlFrvWM/BBLT81/main/BL81827TC", true))()
 
